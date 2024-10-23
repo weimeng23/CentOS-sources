@@ -14,6 +14,7 @@ This repository provides a list of still-available CentOS 7 software repositorie
     - :white_check_mark: CentOS-SCLo-scl-rh
     - :white_check_mark: epel(RHEL 7)
     - :white_check_mark: RPM Fusion
+    - :white_check_mark: CUDA
 
 ## Usage
 
